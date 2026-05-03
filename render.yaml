@@ -2,6 +2,7 @@ services:
   - type: web
     name: sashi-task-hub
     runtime: node
+    repo: https://github.com/aaryaninvincible/sashi-task-hub
     plan: free
     region: oregon
     branch: main
